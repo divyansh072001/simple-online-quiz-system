@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: rgb(75, 73, 73);
+    color: #fff; 
+    padding: 40px;
+    text-align: center;
+}
+body{
+    background-color: rgb(255, 154, 108);
+}
+.res{
+    display: block;
+    width: 50%;
+    background-color: rgba(255, 255, 255, 0.767);
+    border-radius: 12px;
+    border: 2px solid rgb(207, 207, 207);
+    padding: 40px 40px;
+    font-size: 2rem;
+    margin: 80px auto;
+}
+a{
+    text-decoration: none;
+}
+a button{
+    padding: 10px 10px;
+    background-color: rgb(255, 115, 0);
+    border-radius: 12px;
+    border: 2px solid rgb(219, 99, 1);
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 1.5rem;
+}
